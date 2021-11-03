@@ -16,11 +16,11 @@
 ![Screenshot](https://cdn.discordapp.com/attachments/768802146598387772/905441966182006804/unknown.png)
 
 ### My socials:
-**Main Channel:** https://www.youtube.com/channel/UCdXVM2d0rBi69CnAdSt02Fw
-**Clips Channel:** https://www.youtube.com/channel/UC6vmUh1YRFal5kjxdXYbxCw
-**Discord:** https://discord.gg/TrSfRANPSw
-**Twitch:** https://www.twitch.tv/gameplanetworld
-**Github:** https://github.com/gameplanetworld
-**Reddit:** https://www.reddit.com/user/gameplanetworld1
-**Spotify:** https://open.spotify.com/user/piutvfp9k1q7olb47g3hefdrk
-**Steam:** https://steamcommunity.com/id/GamePlanetWorld
+- **Main Channel:** https://www.youtube.com/channel/UCdXVM2d0rBi69CnAdSt02Fw
+- **Clips Channel:** https://www.youtube.com/channel/UC6vmUh1YRFal5kjxdXYbxCw
+- **Discord:** https://discord.gg/TrSfRANPSw
+- **Twitch:** https://www.twitch.tv/gameplanetworld
+- **Github:** https://github.com/gameplanetworld
+- **Reddit:** https://www.reddit.com/user/gameplanetworld1
+- **Spotify:** https://open.spotify.com/user/piutvfp9k1q7olb47g3hefdrk
+- **Steam:** https://steamcommunity.com/id/GamePlanetWorld
