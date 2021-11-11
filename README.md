@@ -3,6 +3,9 @@
 ### What do i mean with Rust calculator?
 **I mean that you can calculator rust stuff. you can calculate rockets, c4, explosiveammo. you can put in the sulfur ammout or charcoal ammount or the ammout of the item you want to craft and it will display what you need to do.**
 
+### Source code link:
+##https://mega.nz/file/oYNiTbRR#5WIX_pRjwgrN8_xZioTmZqxHSCkNrVgNLd9Cpm_3AZA
+
 ### Note:
 **This is just me building a random program to improve my c++ skills. it may not be the best or good at all in that matter but i dont care to be honest. i just want to make stuff whatever i want**
 
