@@ -21,7 +21,7 @@
 ### My socials:
 - **Main Channel:** https://www.youtube.com/channel/UCdXVM2d0rBi69CnAdSt02Fw
 - **Clips Channel:** https://www.youtube.com/channel/UC6vmUh1YRFal5kjxdXYbxCw
-- **Discord:** https://discord.gg/TrSfRANPSw
+- **Discord:** https://discord.gg/ar9Hw8TQwW
 - **Twitch:** https://www.twitch.tv/gameplanetworld
 - **Github:** https://github.com/gameplanetworld
 - **Reddit:** https://www.reddit.com/user/gameplanetworld1
